@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white">
 </div>
+<p></p>
 <div align="center">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
