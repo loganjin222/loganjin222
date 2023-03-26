@@ -1,6 +1,6 @@
 <p align="center">
-<h1 height="200px" align="center">Logan <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h1>
-<h1 align="center">A passionate Front-End Developer from China</h1>
+<h1 height="200px" align="center">LOGAN <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h1>
+<h1 align="center">A Passionate Front-End Developer From China</h1>
 </p>
 
 <div align="center">
@@ -22,5 +22,5 @@
 <br />
 
 
-# Github status
+# Github Status
 ![grid snake animation](./assets/github-user-contribution.svg)
