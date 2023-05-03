@@ -3,7 +3,6 @@
 <h1 align="center">A Passionate Front-End Developer From China</h1>
 </div>
 
-
 <div align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white">
@@ -19,9 +18,7 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white">
 </div>
 
-
 <p></p>
-
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
