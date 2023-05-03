@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
 <h1 height="200px" align="center">LOGAN <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h1>
 <h1 align="center">A Passionate Front-End Developer From China</h1>
-</p>
+</div>
 
 
 <div align="center">
@@ -21,14 +21,10 @@
 
 
 <p></p>
+
+
 <div align="center">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/-Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white">
 </div>
-
-<br />
-
-
-# Github Status
-![grid snake animation](./assets/github-user-contribution.svg)
