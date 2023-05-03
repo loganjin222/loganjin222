@@ -4,6 +4,7 @@
 </p>
 
 <div align="center">
+    <img alt="html5"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Less-1D365D?style=flat&logo=less&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white">
