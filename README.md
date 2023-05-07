@@ -25,3 +25,5 @@
     <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/-Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganjin222&theme=vue-dark)](https://github.com/loganjin222)
