@@ -1,6 +1,6 @@
 <div align="center">
-<h1 height="200px" align="center">LOGAN <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h1>
-<h1 align="center">A Passionate Front-End Developer From China</h1>
+    <h1 height="200px" align="center">LOGAN <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h1>
+    <h1 align="center">A Passionate Front-End Developer From China</h1>
 </div>
 
 <div align="center">
@@ -27,6 +27,8 @@
 </div>
 
 ---
+
+<p></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganjin222&theme=vue-dark)](https://github.com/loganjin222)
 
